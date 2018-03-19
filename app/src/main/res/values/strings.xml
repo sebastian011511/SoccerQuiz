@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Soccer Quiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="action_settings">Settings</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
+
+    <string name="question_penalty">In a penalty shootout, each team have 7 shots.</string>
+    <string name="question_red_card">If you have a red card, you only sit out for the rest of the game.</string>
+    <string name="question_world_cup">The World Cup is every 3 years.</string>
+    <string name="question_ronaldinho">Ronaldinho is one of the greatest player in history.</string>
+    <string name="question_soccer_ball">There are 32 panels on a traditional soccer ball, one for each country
+    in Europe.</string>
+    <string name="question_pele">Soccer legend Pele was born with six toes.</string>
+    <string name="question_mississippi">Soccer was illegal in Mississippi at one point in time.</string>
+
+    <string name="title_activity_cheat">Cheat</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">You cheated. Too bad!</string>
+
+    <string name="api_level">API Level </string>
+
+    <string name="grade_7">Fantastic Job! You know your sport!</string>
+    <string name="grade_6">Good Job! Almost there.</string>
+    <string name="grade_5">Almost there.</string>
+    <string name="grade_below_5">Better luck next time.</string>
+
+    <string name="already_answered">Question Already Answered.</string>
+
+
+</resources>
+
+
